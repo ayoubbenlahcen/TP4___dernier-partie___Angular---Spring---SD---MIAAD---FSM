@@ -1,4 +1,4 @@
-![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/2279f627-e4ae-4f1b-902d-08fa5db411e6)![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/04b0e4e5-805e-4bcf-8af1-bae9cfe4b13c)# TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/5087c162-4130-4c54-8c4c-1828fecf9f5d)![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/2279f627-e4ae-4f1b-902d-08fa5db411e6)![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/04b0e4e5-805e-4bcf-8af1-bae9cfe4b13c)# TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM
 
 
 Troisième Partie : Spring Angular
@@ -144,6 +144,36 @@ B : Développer la partie frontend en utilisant Angular avec Angular Material po
 ![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/ab9b90b6-88f0-4b80-9a77-dd59fc8440f5)
 
 ********************************************************************************************************************************
-meme que ce ptit rapport n'est pas detailler mais je veux invite pour voir quelque point essentile qui'il faut connaitre dans ce patit TP : 
+Voici le resultat des deffirent inteface utliser precidament : 
+L'interface Login : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/a81d571e-39e4-46ba-8c97-b719a8877e01)
 
-           
+L'interface Admin : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/6b023d88-25dd-461c-bb3c-4cb498ffe2c9)
+
+L'interface Home : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/a4135467-eaf4-43bd-aaad-3a24aacc086d)
+
+L'interface Profile : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/888c45f0-8126-4477-ae35-bc4f0d57bc76)
+
+
+L'interface Load Students : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/513b2445-473a-48eb-8173-64c5140b7998)
+
+L'interface Load Payments : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/2503bb35-1125-4bb9-a32e-8fc9955a6f36)
+
+L'interface Dashboard : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/db243691-6094-4612-baa0-a640344739da)
+
+L'interface Students : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/3a44aa12-e4c0-4c47-9b33-0ba78658fcad)
+
+L'interface Payments : 
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/8d9c6fb5-d95e-42d7-8668-f39b738bc193)
+
+
+
+
+![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/49b1b75b-a988-45a6-9225-660e9b777cf8)
