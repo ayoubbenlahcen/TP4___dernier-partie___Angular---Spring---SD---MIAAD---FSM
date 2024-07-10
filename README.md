@@ -69,7 +69,7 @@ B : Développer la partie frontend en utilisant Angular avec Angular Material po
       en utilisant le mode commande en tapant : 
               ng add @angular/material
       Avant quand va patiri plus loin voici l'architecture du projet apres la creation du proget angular : 
-      ![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/32b7bf51-efcf-4e12-9066-71433f775a03)
+  ![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/32b7bf51-efcf-4e12-9066-71433f775a03)
 
      3. Créer une page template contenant un Toolbar avec une barre de menu et un Side Menu
   ![image](https://github.com/ayoubbenlahcen/TP4___dernier-partie___Angular---Spring---SD---MIAAD---FSM/assets/152870306/6a6fef9f-e2b5-4741-afa0-b674ba21041b)
